@@ -16,8 +16,7 @@ A simple event management webpage showcasing upcoming events with details.
 - Contact information
 
 **Screenshots:**
-![Event Management Screenshot](event-management/screenshots/event1.png)
-![Event Management Screenshot](event-management/screenshots/event2.png)
+![Event Management Screenshot](event-management/screenshots/event.png)
 
 ---
 
